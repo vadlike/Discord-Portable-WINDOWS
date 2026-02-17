@@ -1,4 +1,4 @@
-# 🚀 Discord Portable 1.0.9219 + Vencord
+# 🚀 Discord Portable 1.0.9219 + Vencord ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vadlike.Discord-Portable-WINDOWS)
 
 Portable Discord build with local data storage and Vencord integration.
 
@@ -49,4 +49,4 @@ Portable Discord build with local data storage and Vencord integration.
 ## ❤️ Credits
 - Author tag in launcher: **VADLIKE**
 - Vencord project: https://github.com/Vendicated/Vencord
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vadlike.Discord-Portable-WINDOWS)
+
