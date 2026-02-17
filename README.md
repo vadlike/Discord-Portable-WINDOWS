@@ -49,4 +49,4 @@ Portable Discord build with local data storage and Vencord integration.
 ## ❤️ Credits
 - Author tag in launcher: **VADLIKE**
 - Vencord project: https://github.com/Vendicated/Vencord
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vadlike.Discord-Portable-WINDOWS)
